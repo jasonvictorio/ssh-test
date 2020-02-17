@@ -1,2 +1,1 @@
-another 1
-pop os
+from elementary os t460
