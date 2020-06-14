@@ -1,2 +1,1 @@
-from elementary os t460
-another 1
+this is the COVID-19 update
